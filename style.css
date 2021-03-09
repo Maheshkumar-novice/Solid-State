@@ -96,13 +96,13 @@ ol li {
 nav ul {
   padding: 0;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  flex-wrap: wrap;
   gap: 1em;
 }
 
 nav ul li {
   display: inline-block;
-  width: 40%;
   padding: 0.25em;
   margin: 0.5em 0;
 }
@@ -119,13 +119,8 @@ main ul li {
   padding: 0.1em 0.2em;
 }
 
-#files .container {
-  display: grid;
-  grid-template-rows: auto auto;
-  
-}
-
 #files a {
+  width: 33%;
   display: inline-block;
   margin: 1em 1em;
   padding: 0.25em;
@@ -295,6 +290,10 @@ aside h2 {
 
   nav ul {
     flex-wrap: wrap;
+  }
+
+  #files a {
+    width: auto;
   }
 }
 
