@@ -5,4 +5,4 @@
 I found it @[The Odin Project](https://theodinproject.com)
 </br>
 </br>
-My Style: <a href="https://mystylestage.netlify.app/">Click Me!</a>
+My Style: <a href="https://stylestage.dev/styles/solidstate/">Click Me!</a>
